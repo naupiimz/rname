@@ -4,5 +4,3 @@ build:
 run: build
 	@./bin/rname
 
-test: 
-	@go test ./... -v
